@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+
+.image {width: 50%;}
+
+.form {width: 50;width: 50%;}
+
+.main_contact {width: 80%;margin: auto;display: flex;overflow: hidden;background-color: white;border border-radius: 1;}
+
+h2 {text-align: center;margin: 100px 0;;font-size: 40px;font-weight: 400;}
+
+.wrapper {/* margin: 100px 0; */}
+
+.wrapper {}
+
+body {background-color: #F4F4F1;}*{
+    margin: 0;
+    padding: 0;
+    
+border: none;/* border-bottom: 1px solid; */;width: 100%;margin-bottom: 10px;}
+
+textarea {}
+
+input[type="email"] {margin-bottom: 15px;padding: 5px 0;border: 0;width: 100%;border-bottom: 1px solid;;font-size: 20px;}
+
+input[type="text"] {border: none;width: 100%;border-bottom: 1px solid;padding: 5px 0;;margin-bottom: 15px;font-size: 20px;}
+
+.information {display: flex;margin: 20px 0;}
+
+input[type="text"] {}
+
+form {/* border: 0; *//* width: 100%; */}
+
+form {/* margin: auto; *//* border-bottom: 1px solid; */}
+
+.image {width: 50%;}
+
+.form {width: 50;width: 50%;}
+
+.main_contact {width: 80%;margin: auto;display: flex;overflow: hidden;background-color: white;border border-radius: 1;}
+
+h2 {text-align: center;margin: 100px 0;;font-size: 40px;font-weight: 400;}
+
+.wrapper {/* margin: 100px 0; */}
+
+.wrapper {}
+
+body {background-color: #F4F4F1;}
